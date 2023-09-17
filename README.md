@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Piña</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
-- 🌱 I’m currently learning **React js, Express js, MongoDB**
+- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, Oracle**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, Oracle, Visual Basic, C#**
 
 - 📫 How to reach me **dasapibu@gmail.com**
 
