@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Piña</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">A passionate engineer Front-End developer</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 
