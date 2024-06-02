@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Piña</h1>
 <h3 align="center">A passionate engineer Front-End developer</h3>
 
-- 🌱 I’m currently learning **NextJS, Typescript, NodeJS**
+- 🌱 I’m currently learning **Mobile Development, React Native, Typescript**
 
-- 💬 Ask me about **ReactJS, JavaScript, Java, Python, Visual Basic, C#, MongoDB, MySQL, Oracle,**
+- 💬 Ask me about **ReactJS, NextJS, JavaScript, Java, Python, Visual Basic, C#, MongoDB, MySQL, Oracle**
 
 - 📫 How to reach me **dasapibu@gmail.com**
 
