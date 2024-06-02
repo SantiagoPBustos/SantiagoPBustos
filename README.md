@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mobile Development, React Native, Typescript**
 
-- 💬 Ask me about **ReactJS, NextJS, JavaScript, Java, Python, Visual Basic, C#, MongoDB, MySQL, Oracle**
+- 💬 Ask me about **ReactJS, NextJS, Angular, Vue, JavaScript, Java, Python, Visual Basic, C#, MongoDB, MySQL, Oracle**
 
 - 📫 How to reach me **dasapibu@gmail.com**
 
